@@ -83,7 +83,7 @@ To repeat the check, use TypeScript installed in your environment:
 tsc --noEmit --strict --target ES2022 --module NodeNext --moduleResolution NodeNext test-types/consumer.mts
 ```
 
-## New release — 1.1.0
+## New release — 1.1.1
 
 Adds TypeScript declarations and complete documentation; retains the runtime contract.
 
